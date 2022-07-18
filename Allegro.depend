@@ -1,0 +1,388 @@
+# depslib dependency file v1.0
+1654213004 source:c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro\display.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\alplatf.h
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\alandroidcfg.h
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\alunix.h
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\keycodes.h
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\alcompat.h
+
+1654218877 source:c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro\load_img.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	"Parede.h"
+	"Pilula.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1654569311 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro\parede.h
+
+1654569363 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro\pilula.h
+
+1654568780 source:c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro\parede.cpp
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"Parede.h"
+
+1654569044 source:c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro\pilula.cpp
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"Pilula.h"
+
+1654569456 source:c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdio.h>
+	"Parede.h"
+	"Pilula.h"
+
+1656791065 source:c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_v1\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"allegro5/allegro_acodec.h"
+	<allegro5/allegro_primitives.h>
+	<string>
+	<string.h>
+	<stdio.h>
+	"Parede.h"
+	"Pilula.h"
+	"Pacman.h"
+
+1656122248 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_v1\parede.h
+	<string>
+	<string.h>
+	<stdio.h>
+
+1656121931 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_v1\pilula.h
+	<string>
+
+1656121934 source:c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_v1\parede.cpp
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"Parede.h"
+
+1656121932 source:c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_v1\pilula.cpp
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<string>
+	"Pilula.h"
+
+1656626119 source:c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_v1\pacman.cpp
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<string>
+	"Pacman.h"
+
+1656626073 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_v1\pacman.h
+	<string>
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1615199857 c:\users\faelp\documents\estudos\programação\projetoscodeblocks\allegro_lib\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
